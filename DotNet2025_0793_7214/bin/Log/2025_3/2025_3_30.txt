@@ -1,0 +1,13 @@
+30/03/2025 18:01:03	update	Update	update sale 200
+30/03/2025 18:17:10	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 18:17:23	delete	Delete	delete sale 210
+30/03/2025 20:31:17	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:31:17	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:31:17	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:31:17	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:31:17	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:48:23	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:48:23	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:48:23	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:48:23	create	Create	create saleSystem.Func`1[System.String]
+30/03/2025 20:48:23	create	Create	create saleSystem.Func`1[System.String]

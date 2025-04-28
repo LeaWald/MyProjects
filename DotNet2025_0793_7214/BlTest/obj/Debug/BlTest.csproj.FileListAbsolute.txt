@@ -1,0 +1,80 @@
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BlTest.exe
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BlTest.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BlTest.runtimeconfig.json
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\BlTest.exe
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\BlTest.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\BlTest.runtimeconfig.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\ref\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.exe
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.runtimeconfig.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\refint\BlTest.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\ref\BlTest.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\refint\BlTest.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.exe
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.deps.json
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.runtimeconfig.json
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BlTest.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.Up2Date
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\ref\BlTest.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BlTest.exe
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BlTest.deps.json
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BlTest.runtimeconfig.json
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BlTest.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BlTest.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.AssemblyReference.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfoInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.AssemblyInfo.cs
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.CoreCompileInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.csproj.Up2Date
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\refint\BlTest.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\BlTest.genruntimeconfig.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BlTest\obj\Debug\ref\BlTest.dll

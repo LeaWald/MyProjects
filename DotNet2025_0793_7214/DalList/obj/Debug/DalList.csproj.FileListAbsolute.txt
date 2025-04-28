@@ -1,0 +1,247 @@
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CopyComplete
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+C:\Users\user1\Desktop\לאהלה\c#\פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\bin\DalList.deps.json
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\bin\DalList.dll
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\bin\DalList.pdb
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.csproj.CopyComplete
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.dll
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\refint\DalList.dll
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\DalList.pdb
+Z:\Handasa\mora\פריש\יד FS\שב פולסטאק\05.11.24\לאה ולדמן\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\פרוייקט c#\bin\DalList.deps.json
+Z:\B\ולדמן לאה\פרוייקט c#\bin\DalList.dll
+Z:\B\ולדמן לאה\פרוייקט c#\bin\DalList.pdb
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.csproj.CopyComplete
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\פרוייקט c#\DalList\obj\Debug\ref\DalList.dll
+E:\c#\פרויקט שלי\bin\DalList.deps.json
+E:\c#\פרויקט שלי\bin\DalList.dll
+E:\c#\פרויקט שלי\bin\DalList.pdb
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.csproj.CopyComplete
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.dll
+E:\c#\פרויקט שלי\DalList\obj\Debug\refint\DalList.dll
+E:\c#\פרויקט שלי\DalList\obj\Debug\DalList.pdb
+E:\c#\פרויקט שלי\DalList\obj\Debug\ref\DalList.dll
+D:\פרויקט שלי\bin\DalList.deps.json
+D:\פרויקט שלי\bin\DalList.dll
+D:\פרויקט שלי\bin\DalList.pdb
+D:\פרויקט שלי\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\פרויקט שלי\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט שלי\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\פרויקט שלי\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\פרויקט שלי\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\פרויקט שלי\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\פרויקט שלי\DalList\obj\Debug\DalList.dll
+D:\פרויקט שלי\DalList\obj\Debug\refint\DalList.dll
+D:\פרויקט שלי\DalList\obj\Debug\DalList.pdb
+D:\פרויקט שלי\DalList\obj\Debug\ref\DalList.dll
+D:\פרויקט c# מעודכן ז כסלו\bin\DalList.deps.json
+D:\פרויקט c# מעודכן ז כסלו\bin\DalList.dll
+D:\פרויקט c# מעודכן ז כסלו\bin\DalList.pdb
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.dll
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\refint\DalList.dll
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.pdb
+D:\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\ref\DalList.dll
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.deps.json
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.dll
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.pdb
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.CopyComplete
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.dll
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\refint\DalList.dll
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.pdb
+Z:\Handasa\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.deps.json
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\bin\DalList.pdb
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\פרויקט c# מעודכן ז כסלו\DalList\obj\Debug\ref\DalList.dll
+D:\c#\פרויקט c# מעודכן כג כסלו\bin\DalList.deps.json
+D:\c#\פרויקט c# מעודכן כג כסלו\bin\DalList.dll
+D:\c#\פרויקט c# מעודכן כג כסלו\bin\DalList.pdb
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.dll
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\refint\DalList.dll
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.pdb
+D:\c#\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\bin\DalList.deps.json
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\bin\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\bin\DalList.pdb
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\פרויקט c# מעודכן כג כסלו\DalList\obj\Debug\ref\DalList.dll
+D:\c#\שלב 4ב פרויקט\bin\DalList.deps.json
+D:\c#\שלב 4ב פרויקט\bin\DalList.dll
+D:\c#\שלב 4ב פרויקט\bin\DalList.pdb
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.CopyComplete
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.dll
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\refint\DalList.dll
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.pdb
+D:\c#\שלב 4ב פרויקט\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\DalList.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\DalList\obj\Debug\ref\DalList.dll
+E:\c#\שלב 4ב פרויקט\bin\DalList.deps.json
+E:\c#\שלב 4ב פרויקט\bin\DalList.dll
+E:\c#\שלב 4ב פרויקט\bin\DalList.pdb
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.csproj.CopyComplete
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.dll
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\refint\DalList.dll
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\DalList.pdb
+E:\c#\שלב 4ב פרויקט\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+D:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+E:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.deps.json
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\DalList.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.AssemblyReference.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfoInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.AssemblyInfo.cs
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.CoreCompileInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.csproj.Up2Date
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\refint\DalList.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\DalList.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\DalList\obj\Debug\ref\DalList.dll

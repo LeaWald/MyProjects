@@ -1,0 +1,33 @@
+18/02/2025 14:54:56	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+18/02/2025 14:54:56	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+18/02/2025 14:54:56	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+18/02/2025 14:54:56	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+18/02/2025 14:54:56	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+18/02/2025 14:54:56	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 25/02/2025 00:00:00 }
+18/02/2025 14:54:56	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 18/02/2025 00:00:00, FinishDate = 28/02/2025 00:00:00 }
+18/02/2025 14:54:56	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 05/03/2025 00:00:00 }
+18/02/2025 14:54:56	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 22/02/2025 00:00:00 }
+18/02/2025 14:54:56	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 18/02/2025 00:00:00, FinishDate = 20/02/2025 00:00:00 }
+18/02/2025 14:54:56	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+18/02/2025 14:54:56	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+18/02/2025 14:54:57	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+18/02/2025 14:54:57	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+18/02/2025 14:54:57	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }
+18/02/2025 14:55:02	readAll	ReadAll	read all productSystem.Collections.Generic.List`1[DO.Product] who meet the condition
+18/02/2025 14:55:09	read all by param	ReadAll	readAll customerSystem.Collections.Generic.List`1[DO.Customer] who meet the condition
+18/02/2025 14:56:30	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+18/02/2025 14:56:31	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+18/02/2025 14:56:31	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+18/02/2025 14:56:31	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+18/02/2025 14:56:31	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+18/02/2025 14:56:31	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 25/02/2025 00:00:00 }
+18/02/2025 14:56:31	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 18/02/2025 00:00:00, FinishDate = 28/02/2025 00:00:00 }
+18/02/2025 14:56:31	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 05/03/2025 00:00:00 }
+18/02/2025 14:56:31	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 18/02/2025 00:00:00, FinishDate = 22/02/2025 00:00:00 }
+18/02/2025 14:56:31	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 18/02/2025 00:00:00, FinishDate = 20/02/2025 00:00:00 }
+18/02/2025 14:56:31	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+18/02/2025 14:56:31	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+18/02/2025 14:56:31	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+18/02/2025 14:56:31	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+18/02/2025 14:56:31	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }
+18/02/2025 14:56:38	read all by param	ReadAll	readAll customerSystem.Collections.Generic.List`1[DO.Customer] who meet the condition

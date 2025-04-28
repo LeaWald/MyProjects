@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfCustomer xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Customer>
+    <Id>12</Id>
+    <CustomerName>משה כהן</CustomerName>
+    <Address>רבי עקיבא 50</Address>
+    <Phone>0548444444</Phone>
+  </Customer>
+  <Customer>
+    <Id>13</Id>
+    <CustomerName>אבי לוי</CustomerName>
+    <Address>הזית</Address>
+    <Phone>0548411111</Phone>
+  </Customer>
+  <Customer>
+    <Id>14</Id>
+    <CustomerName>יהודה פרידמן</CustomerName>
+    <Address>התמר 85</Address>
+    <Phone>0548400000</Phone>
+  </Customer>
+  <Customer>
+    <Id>15</Id>
+    <CustomerName>יוסי</CustomerName>
+    <Address>רשבי 8</Address>
+    <Phone>0548422222</Phone>
+  </Customer>
+  <Customer>
+    <Id>16</Id>
+    <CustomerName>שרה שפירא</CustomerName>
+    <Address>אבני נזר 108</Address>
+    <Phone>0548499999</Phone>
+  </Customer>
+  <Customer>
+    <Id>7777</Id>
+    <CustomerName>yrt</CustomerName>
+    <Address>y</Address>
+    <Phone>0584896955</Phone>
+  </Customer>
+</ArrayOfCustomer>

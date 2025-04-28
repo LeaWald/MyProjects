@@ -1,0 +1,22 @@
+21/04/2025 20:11:43	create	Create	create productProduct { Id = 143, ProductName = ךחלי, Category = בנים, Price = 0, QuantityInStock = 0 }
+21/04/2025 20:26:17	upDate	Update	upDate productProduct { Id = 143, ProductName = jhk, Category = בנים, Price = 7, QuantityInStock = 8 }
+21/04/2025 20:27:30	read	Read	read product143
+21/04/2025 20:27:30	delete	Delete	delete product143
+21/04/2025 20:46:42	read by param or all	ReadAll	read product
+21/04/2025 20:54:56	read by param or all	ReadAll	read product
+21/04/2025 20:54:58	read by param or all	ReadAll	read product
+21/04/2025 20:55:00	read by param or all	ReadAll	read product
+21/04/2025 20:55:00	read by param or all	ReadAll	read product
+21/04/2025 20:55:07	read by param or all	ReadAll	read product
+21/04/2025 20:55:08	read by param or all	ReadAll	read product
+21/04/2025 20:55:09	read by param or all	ReadAll	read product
+21/04/2025 20:55:10	read by param or all	ReadAll	read product
+21/04/2025 20:56:56	read by param or all	ReadAll	read product
+21/04/2025 21:00:46	read by param or all	ReadAll	read product
+21/04/2025 21:05:04	read by param or all	ReadAll	read product
+21/04/2025 21:09:19	read by param or all	ReadAll	read product
+21/04/2025 21:10:26	read by param or all	ReadAll	read product
+21/04/2025 21:17:14	read by param or all	ReadAll	read product
+21/04/2025 21:17:20	read	Read	read product132
+21/04/2025 21:23:16	read by param or all	ReadAll	read product
+21/04/2025 21:24:52	read by param or all	ReadAll	read product

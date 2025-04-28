@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ArrayOfProduct xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+  <Product>
+    <Id>132</Id>
+    <ProductName>שעון יוקרתי</ProductName>
+    <Category>בית</Category>
+    <Price>50</Price>
+    <QuantityInStock>13</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>133</Id>
+    <ProductName>מחזיק חריטת שם</ProductName>
+    <Category>בנות</Category>
+    <Price>14</Price>
+    <QuantityInStock>2</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>134</Id>
+    <ProductName>קרם גוף</ProductName>
+    <Category>כלות</Category>
+    <Price>15</Price>
+    <QuantityInStock>16</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>135</Id>
+    <ProductName>בקבוק נירוסטה איכותי</ProductName>
+    <Category>יום_הולדת</Category>
+    <Price>40</Price>
+    <QuantityInStock>11</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>136</Id>
+    <ProductName>אוטו על שלט</ProductName>
+    <Category>בנים</Category>
+    <Price>100</Price>
+    <QuantityInStock>4</QuantityInStock>
+  </Product>
+  <Product>
+    <Id>144</Id>
+    <ProductName>עגילים</ProductName>
+    <Category>בנות</Category>
+    <Price>10</Price>
+    <QuantityInStock>10</QuantityInStock>
+  </Product>
+</ArrayOfProduct>

@@ -1,0 +1,60 @@
+04/03/2025 11:11:58	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+04/03/2025 11:11:58	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+04/03/2025 11:11:58	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+04/03/2025 11:11:58	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+04/03/2025 11:11:58	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+04/03/2025 11:11:58	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 11/03/2025 00:00:00 }
+04/03/2025 11:11:58	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 14/03/2025 00:00:00 }
+04/03/2025 11:11:58	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 19/03/2025 00:00:00 }
+04/03/2025 11:11:58	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 08/03/2025 00:00:00 }
+04/03/2025 11:11:58	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 06/03/2025 00:00:00 }
+04/03/2025 11:11:58	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+04/03/2025 11:11:58	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+04/03/2025 11:11:58	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+04/03/2025 11:11:58	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+04/03/2025 11:11:58	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }
+04/03/2025 13:58:34	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+04/03/2025 13:58:34	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+04/03/2025 13:58:34	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+04/03/2025 13:58:34	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+04/03/2025 13:58:34	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+04/03/2025 13:58:34	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 11/03/2025 00:00:00 }
+04/03/2025 13:58:34	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 14/03/2025 00:00:00 }
+04/03/2025 13:58:34	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 19/03/2025 00:00:00 }
+04/03/2025 13:58:34	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 08/03/2025 00:00:00 }
+04/03/2025 13:58:34	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 06/03/2025 00:00:00 }
+04/03/2025 13:58:34	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+04/03/2025 13:58:34	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+04/03/2025 13:58:34	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+04/03/2025 13:58:34	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+04/03/2025 13:58:34	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }
+04/03/2025 13:58:47	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+04/03/2025 13:58:47	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+04/03/2025 13:58:47	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+04/03/2025 13:58:47	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+04/03/2025 13:58:47	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+04/03/2025 13:58:47	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 11/03/2025 00:00:00 }
+04/03/2025 13:58:47	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 14/03/2025 00:00:00 }
+04/03/2025 13:58:47	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 19/03/2025 00:00:00 }
+04/03/2025 13:58:47	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 08/03/2025 00:00:00 }
+04/03/2025 13:58:47	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 06/03/2025 00:00:00 }
+04/03/2025 13:58:47	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+04/03/2025 13:58:47	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+04/03/2025 13:58:47	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+04/03/2025 13:58:47	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+04/03/2025 13:58:47	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }
+04/03/2025 13:58:54	create	Create	create productProduct { Id = 100, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 20 }
+04/03/2025 13:58:54	create	Create	create productProduct { Id = 101, ProductName = מחזיר חריטת שם, Category = בנות, Price = 14, QuantityInStock = 5 }
+04/03/2025 13:58:54	create	Create	create productProduct { Id = 102, ProductName = קרם גוף, Category = כלות, Price = 15, QuantityInStock = 16 }
+04/03/2025 13:58:54	create	Create	create productProduct { Id = 103, ProductName = בקבוק נירוסטה איכותי, Category = יום_הולדת, Price = 40, QuantityInStock = 11 }
+04/03/2025 13:58:54	create	Create	create productProduct { Id = 104, ProductName = אוטו על שלט, Category = בנים, Price = 100, QuantityInStock = 4 }
+04/03/2025 13:58:54	create	Create	create saleSale { Id = 200, Code = 100, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 11/03/2025 00:00:00 }
+04/03/2025 13:58:54	create	Create	create saleSale { Id = 201, Code = 101, Ouantity = 4, Price = 20, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 14/03/2025 00:00:00 }
+04/03/2025 13:58:54	create	Create	create saleSale { Id = 202, Code = 102, Ouantity = 3, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 19/03/2025 00:00:00 }
+04/03/2025 13:58:54	create	Create	create saleSale { Id = 203, Code = 103, Ouantity = 2, Price = 10, Club = False, startDate = 04/03/2025 00:00:00, FinishDate = 08/03/2025 00:00:00 }
+04/03/2025 13:58:54	create	Create	create saleSale { Id = 204, Code = 104, Ouantity = 7, Price = 100, Club = True, startDate = 04/03/2025 00:00:00, FinishDate = 06/03/2025 00:00:00 }
+04/03/2025 13:58:54	create	Create	create customerCustomer { Id = 12, CustomerName = משה כהן, Address = רבי עקיבא 50, Phone = 0548444444 }
+04/03/2025 13:58:54	create	Create	create customerCustomer { Id = 13, CustomerName = אבי לוי, Address = הזית, Phone = 0548411111 }
+04/03/2025 13:58:54	create	Create	create customerCustomer { Id = 14, CustomerName = יהודה פרידמן, Address = התמר 85, Phone = 0548400000 }
+04/03/2025 13:58:54	create	Create	create customerCustomer { Id = 15, CustomerName = יוסי, Address = רשבי 8, Phone = 0548422222 }
+04/03/2025 13:58:54	create	Create	create customerCustomer { Id = 16, CustomerName = שרה שפירא, Address = אבני נזר 108, Phone = 0548499999 }

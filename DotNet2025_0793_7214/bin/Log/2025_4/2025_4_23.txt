@@ -1,0 +1,24 @@
+23/04/2025 17:42:26	read by param or all	ReadAll	read product
+23/04/2025 17:43:30	read by param or all	ReadAll	read product
+23/04/2025 17:44:05	read by param or all	ReadAll	read product
+23/04/2025 17:44:23	read	Read	read product132
+23/04/2025 17:44:37	read	Read	read product133
+23/04/2025 18:14:33	read	Read	read product7
+23/04/2025 18:17:12	read	Read	read product1
+23/04/2025 18:18:33	read	Read	read product41
+23/04/2025 18:22:37	read	Read	read product10
+23/04/2025 18:24:28	read	Read	read product10
+23/04/2025 18:26:17	create	Create	create saleSystem.Func`1[System.String]
+23/04/2025 18:35:55	update	Update	update sale 221
+23/04/2025 19:21:38	read all	ReadAll	read all sale
+23/04/2025 19:22:25	read all	ReadAll	read all sale
+23/04/2025 19:24:02	read all	ReadAll	read all sale
+23/04/2025 19:25:49	read all	ReadAll	read all sale
+23/04/2025 19:25:57	read all	ReadAll	read all sale on param
+23/04/2025 19:27:06	read all	ReadAll	read all sale
+23/04/2025 19:27:12	read all	ReadAll	read all sale on param
+23/04/2025 21:41:55	create	Create	create customerCustomer { Id = 215087, CustomerName = לאה, Address = אבני נזר 28, Phone = 0548591269 }
+23/04/2025 21:42:32	upDate	Update	upDate customer215087
+23/04/2025 21:42:52	read by param	ReadAll	read customer who meet the condition
+23/04/2025 21:43:08	read	Read	read customer 215087
+23/04/2025 21:45:39	upDate	Update	upDate customer215087

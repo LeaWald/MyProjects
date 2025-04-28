@@ -1,0 +1,55 @@
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BL.deps.json
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\bin\BL.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.csproj.Up2Date
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\refint\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\BL.pdb
+Z:\B\ולדמן לאה\c#\שלב 4ב פרויקט\BL\obj\Debug\ref\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\refint\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב' פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.pdb
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfo.cs
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\refint\BL.dll
+Z:\B\ולדמן לאה\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfo.cs
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\refint\BL.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BL.deps.json
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BL.dll
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\bin\BL.pdb
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.Up2Date
+E:\c#\שלב 4 ב חדש פרויקט\DotNet2025_0793_7214\BL\obj\Debug\ref\BL.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.AssemblyReference.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfoInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.AssemblyInfo.cs
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.CoreCompileInputs.cache
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\refint\BL.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BL.deps.json
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BL.dll
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\bin\BL.pdb
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\BL.csproj.Up2Date
+D:\c#\שלב 6 פרויקט\DotNet2025_0793_7214\BL\obj\Debug\ref\BL.dll

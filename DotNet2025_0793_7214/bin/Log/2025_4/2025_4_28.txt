@@ -1,0 +1,95 @@
+28/04/2025 15:00:26	create	Create	create productProduct { Id = 146, ProductName = שרשרת, Category = יום_הולדת, Price = 50, QuantityInStock = 10 }
+28/04/2025 15:02:44	read by param or all	ReadAll	read product
+28/04/2025 15:03:10	upDate	Update	upDate productProduct { Id = 146, ProductName = שרששרת , Category = יום_הולדת, Price = 20, QuantityInStock = 3 }
+28/04/2025 15:03:16	read by param or all	ReadAll	read product
+28/04/2025 15:03:27	read	Read	read product150
+28/04/2025 15:03:32	read	Read	read product146
+28/04/2025 15:03:32	delete	Delete	delete product146
+28/04/2025 15:03:36	read by param or all	ReadAll	read product
+28/04/2025 15:03:43	read	Read	read product144
+28/04/2025 15:03:44	read by param or all	ReadAll	read product
+28/04/2025 15:03:50	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:04:19	create	Create	create customerCustomer { Id = 215, CustomerName = יחל, Address = טעיו, Phone = 089745555 }
+28/04/2025 15:04:23	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:06:49	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:07:11	upDate	Update	upDate customer215
+28/04/2025 15:07:14	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:08:35	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:08:43	read	Read	read customer 215
+28/04/2025 15:08:44	dalete	Delete	delete customer215
+28/04/2025 15:08:47	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:08:53	read	Read	read customer 16
+28/04/2025 15:08:55	read by param	ReadAll	read customer who meet the condition
+28/04/2025 15:09:05	read all	ReadAll	read all sale
+28/04/2025 15:09:18	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:35:03	read all	ReadAll	read all sale
+28/04/2025 19:35:14	delete	Delete	delete sale 222
+28/04/2025 19:35:18	read all	ReadAll	read all sale
+28/04/2025 19:36:03	read all	ReadAll	read all sale
+28/04/2025 19:36:25	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:36:31	read all	ReadAll	read all sale
+28/04/2025 19:36:46	read	Read	read product154
+28/04/2025 19:36:50	read by param or all	ReadAll	read product
+28/04/2025 19:38:48	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:40:35	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:50:06	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:50:12	read all	ReadAll	read all sale
+28/04/2025 19:52:00	create	Create	create saleSystem.Func`1[System.String]
+28/04/2025 19:52:04	read all	ReadAll	read all sale
+28/04/2025 19:52:24	delete	Delete	delete sale 223
+28/04/2025 19:52:31	delete	Delete	delete sale 224
+28/04/2025 19:52:36	delete	Delete	delete sale 225
+28/04/2025 19:52:44	delete	Delete	delete sale 226
+28/04/2025 19:52:46	read all	ReadAll	read all sale
+28/04/2025 19:52:52	read all	ReadAll	read all sale on param
+28/04/2025 19:53:12	update	Update	update sale 221
+28/04/2025 19:53:22	read all	ReadAll	read all sale
+28/04/2025 19:53:42	update	Update	update sale 221
+28/04/2025 19:53:55	update	Update	update sale 221
+28/04/2025 19:53:59	read all	ReadAll	read all sale
+28/04/2025 19:54:00	read all	ReadAll	read all sale
+28/04/2025 19:54:01	read all	ReadAll	read all sale
+28/04/2025 20:04:39	read all	ReadAll	read all sale
+28/04/2025 20:04:55	update	Update	update sale 227
+28/04/2025 20:04:58	read all	ReadAll	read all sale
+28/04/2025 20:05:08	read all	ReadAll	read all sale on param
+28/04/2025 20:05:25	delete	Delete	delete sale 227
+28/04/2025 20:05:29	read all	ReadAll	read all sale
+28/04/2025 20:05:42	read by param	ReadAll	read customer who meet the condition
+28/04/2025 20:05:52	read by param or all	ReadAll	read product
+28/04/2025 20:06:08	create	Create	create customerCustomer { Id = 7777, CustomerName = yrt, Address = y, Phone = 0584896955 }
+28/04/2025 20:06:12	read by param	ReadAll	read customer who meet the condition
+28/04/2025 20:06:17	read	Read	read customer 14
+28/04/2025 20:06:21	read	Read	read customer 1
+28/04/2025 20:06:32	read	Read	read customer 10
+28/04/2025 20:06:48	read	Read	read customer 7777
+28/04/2025 20:06:50	read by param	ReadAll	read customer who meet the condition
+28/04/2025 20:09:09	read	Read	read customer 147
+28/04/2025 20:11:03	read	Read	read customer 777777
+28/04/2025 20:13:08	read	Read	read customer 1211
+28/04/2025 20:14:11	read	Read	read customer 10
+28/04/2025 20:14:17	read	Read	read customer 215087
+28/04/2025 20:14:19	read by param	ReadAll	read customer who meet the condition
+28/04/2025 20:14:48	upDate	Update	upDate customer215087
+28/04/2025 20:14:53	read	Read	read customer 215087
+28/04/2025 20:14:58	read	Read	read customer 74
+28/04/2025 20:15:05	read	Read	read customer 215087
+28/04/2025 20:15:05	dalete	Delete	delete customer215087
+28/04/2025 20:15:09	read	Read	read customer 215087
+28/04/2025 20:15:12	read by param	ReadAll	read customer who meet the condition
+28/04/2025 20:15:32	read all	ReadAll	read all sale
+28/04/2025 20:15:58	read all	ReadAll	read all sale
+28/04/2025 20:16:06	read all	ReadAll	read all sale on param
+28/04/2025 20:16:06	read all	ReadAll	read all sale on param
+28/04/2025 20:16:53	read	Read	read customer 10
+28/04/2025 20:16:53	read by param or all	ReadAll	read product
+28/04/2025 20:17:00	read by param or all	ReadAll	read product
+28/04/2025 20:17:00	read	Read	read product132
+28/04/2025 20:17:00	read all	ReadAll	read all sale on param
+28/04/2025 20:17:12	read by param or all	ReadAll	read product
+28/04/2025 20:17:13	read	Read	read product133
+28/04/2025 20:17:13	read all	ReadAll	read all sale on param
+28/04/2025 20:18:18	read	Read	read product132
+28/04/2025 20:18:18	upDate	Update	upDate productProduct { Id = 132, ProductName = שעון יוקרתי, Category = בית, Price = 50, QuantityInStock = 13 }
+28/04/2025 20:18:18	read	Read	read product133
+28/04/2025 20:18:18	upDate	Update	upDate productProduct { Id = 133, ProductName = מחזיק חריטת שם, Category = בנות, Price = 14, QuantityInStock = 2 }
