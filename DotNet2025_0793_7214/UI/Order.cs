@@ -48,6 +48,7 @@ namespace UI
 
         private void btnAddProd_Click(object sender, EventArgs e)
         {
+            try {
             List<BO.Product> listProd = _bl.Product.ReadAll();
             int code = listProd.Where(p => p.ProductName == cbName.Text).Select(c => c.Id).FirstOrDefault();
             _bl.Order.AddProductToOrder(_order, code, (int)nUDQuentity.Value);
@@ -60,6 +61,11 @@ namespace UI
             Products.Items.Clear();
             Products.DataSource = _order.ProductList.SelectMany(p => p.ToString().Split("\n")).ToList();
             toPay.Text = _order.FinalPrice.ToString();
+            }
+            catch(Exception ex)
+            {
+                MessageBox.Show(ex.Message, "שגיאה", MessageBoxButtons.OK, MessageBoxIcon.Error);
+            }
         }
 
         private void finish_Click(object sender, EventArgs e)

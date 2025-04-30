@@ -327,12 +327,10 @@
             // chooseCatgoEdit
             // 
             chooseCatgoEdit.FormattingEnabled = true;
-            chooseCatgoEdit.Items.AddRange(new object[] { "בנים", "בנות", "כלות", "יום הולדת", "בית" });
             chooseCatgoEdit.Location = new Point(229, 120);
             chooseCatgoEdit.Name = "chooseCatgoEdit";
             chooseCatgoEdit.Size = new Size(187, 28);
             chooseCatgoEdit.TabIndex = 11;
-            chooseCatgoEdit.Text = "בנים";
             // 
             // inserNameEdit
             // 
