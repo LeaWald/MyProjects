@@ -1,0 +1,17 @@
+<div class="header">
+  <section>
+    <div class="example-button-row">
+      <button mat-flat-button class="login-button" (click)="enterLogin()">התחברות</button>
+    </div>
+  </section>
+  <mat-toolbar class="list">
+    <span>רשימת נרשמות</span>
+  </mat-toolbar>
+</div>
+  <ag-grid-angular
+    style="width: 100%; height: auto;"
+    class="ag-theme-alpine"
+    [rowData]="registered"
+    [columnDefs]="colDefs"
+    [domLayout]="'autoHeight'">
+  </ag-grid-angular>

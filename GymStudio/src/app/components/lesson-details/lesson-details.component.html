@@ -1,0 +1,12 @@
+<div *ngIf="dLesson" class="popup">
+    <div class="popup-content">
+        <h1>{{ dLesson.lessonName }}</h1>
+        <p>שם המורה: {{ dLesson.teacherName }}</p>
+        <p>כמות מפגשים: {{ dLesson.numMeetings }}</p>
+        <p>תאריך תחילת הקורס: {{ dLesson.startDate.toLocaleDateString('he-IL') }}</p>
+        <p>מחיר: {{ dLesson.price }}</p>
+        <p>יום: {{ dLesson.day }}</p>
+        <p>שעה: {{ dLesson.hour }}</p>
+        <mat-icon class="close" (click)="closePopup()">close</mat-icon>
+    </div>
+</div>
